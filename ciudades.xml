@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+   <ciudad cod="1">
+      <nombre>Estambul</nombre>
+      <pais continente="Asia y Europa">Turquía</pais>
+      <poblacion>15462452</poblacion>
+      <fundacion>29 de mayo de 330</fundacion>
+      <descripcion>Ciudad histórica que conecta dos continentes, famosa por el Bósforo y Santa Sofía.</descripcion>
+   </ciudad>
+   <ciudad cod="2">
+      <nombre>Seúl</nombre>
+      <pais continente="Asia">Corea del Sur</pais>
+      <poblacion>9776000</poblacion>
+      <fundacion>18 de julio de 1394</fundacion>
+      <descripcion>Capital moderna con una mezcla de tecnología, cultura pop y sitios históricos.</descripcion>
+   </ciudad>
+   <ciudad cod="3">
+      <nombre>Buenos Aires</nombre>
+      <pais continente="América">Argentina</pais>
+      <poblacion>3075646</poblacion>
+      <fundacion>2 de febrero de 1536</fundacion>
+      <descripcion>Conocida por el tango, su vibrante vida cultural y su arquitectura europea.</descripcion>
+   </ciudad>
+   <ciudad cod="4">
+      <nombre>Ciudad del Cabo</nombre>
+      <pais continente="África">Sudáfrica</pais>
+      <poblacion>4336884</poblacion>
+      <fundacion>6 de abril de 1652</fundacion>
+      <descripcion>Famosa por la Montaña de la Mesa y su puerto, una mezcla de culturas y paisajes naturales.</descripcion>
+   </ciudad>
+</ciudades>

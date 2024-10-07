@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+   <pedido cod="1">
+      <fecha>02-05-2013</fecha>
+      <pu>25</pu>
+      <cantidad>5</cantidad>
+      <descripcion>Pizzas</descripcion>
+      <tipo>C</tipo>
+   </pedido>
+   <pedido cod="2">
+      <fecha>22-08-2012</fecha>
+      <pu>7.5</pu>
+      <cantidad>2</cantidad>
+      <descripcion>Queso añejo</descripcion>
+      <tipo>A</tipo>
+   </pedido>
+   <pedido cod="3">
+      <fecha>02-12-2013</fecha>
+      <pu>5</pu>
+      <cantidad>12<cantidad>
+      <descripcion>Castañas</descripcion>
+      <tipo>B</tipo>
+   </pedido>
+   <pedido cod="4">
+      <fecha>11-09-2013</fecha>
+      <pu>3.25</pu>
+      <cantidad>5</cantidad>
+      <descripcion>Mandarinas</descripcion>
+      <tipo>Premium</tipo>
+   </pedido>
+</pedidos>

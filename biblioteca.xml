@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+   <libro cod="1">
+      <fecha_adquisicion>03-07-2013</fecha_adquisicion>
+      <titulo>El Quijote</titulo>
+      <autor>Miguel de Cervantes</autor>
+      <precio>21</precio>
+      <cantidad>1</cantidad>
+      <categoria>Novela Moderna</categoria>
+   </libro>
+   <libro cod="2">
+      <fecha_adquisicion>24-02-2012</fecha_adquisicion>
+      <titulo>El proceso</titulo>
+      <autor>Franz Kafka</autor>
+      <precio>44</precio>
+      <cantidad>3</cantidad>
+      <categoria>Novela trágica</categoria>
+   </libro>
+   <libro cod="3">
+      <fecha_adquisicion>02-09-2013</fecha_adquisicion>
+      <titulo>El ruido y la furia</titulo>
+      <autor>William Faulkner</autor>
+      <precio>35</precio>
+      <cantidad>2</cantidad>
+      <categoria>Novela gótica</categoria>
+   </libro>
+   <libro cod="4">
+      <fecha_adquisicion>12-10-2013</fecha_adquisicion>
+      <titulo>Los pilares de la tierra</titulo>
+      <autor>Ken Follett</autor>
+      <precio>28.5</precio>
+      <cantidad>2</cantidad>
+      <categoria>Novela histórica</categoria>
+   </libro>
+</biblioteca>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hechos>
+   <hecho descripcion="Primer vuelo de los hermanos Wright, inicio de la aviación moderna">
+      <dia>17</dia>
+      <mes>12</mes>
+      <año>1903</año>
+   </hecho>
+   <hecho descripcion="Firma del Tratado de Versalles, fin de la Primera Guerra Mundial">
+      <dia>28</dia>
+      <mes>6</mes>
+      <año>1919</año>
+   </hecho>
+   <hecho descripcion="Primera prueba de la bomba atómica en el Proyecto Manhattan">
+      <dia>16</dia>
+      <mes>7</mes>
+      <año>1945</año>
+   </hecho>
+   <hecho descripcion="Inauguración de la Torre CN en Toronto, uno de los edificios más altos del mundo">
+      <dia>26</dia>
+      <mes>6</mes>
+      <año>1976</año>
+   </hecho>
+   <hecho descripcion="Descubrimiento de la estructura del ADN por Watson y Crick">
+      <dia>25</dia>
+      <mes>4</mes>
+      <año>1953</año>
+   </hecho>
+</hechos>
